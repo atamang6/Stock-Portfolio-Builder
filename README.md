@@ -243,3 +243,13 @@ This project is for educational purposes. Use at your own risk.
 
 For issues or questions, please review the code comments and documentation. The codebase includes detailed explanations of financial calculations and reasoning.
 
+Navigate to Portfolio Builder\backend"
+Run Following command to Run backend - venv\Scripts\activate.bat
+python main.py
+
+
+
+Navigate to \Portfolio Builder\frontend> npm run dev
+
+
+
